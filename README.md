@@ -1,6 +1,6 @@
 # Employee Directory App
 
-Android application developed using Java.
+An Android application developed using Java and Android Studio that fetches employee data from a JSON API and displays it in a searchable employee directory.
 
 ## Features
 - JSON API Integration
@@ -9,6 +9,7 @@ Android application developed using Java.
 - Employee Detail Screen
 - Splash Screen
 - Custom App Logo
+- Clean UI Design
 
 ## Technologies Used
 - Java
@@ -17,5 +18,8 @@ Android application developed using Java.
 - RecyclerView
 - CardView
 
-## API
+## API Used
 https://aamras.com/dummy/EmployeeDetails.json
+
+## Author
+Piyush Marathe
